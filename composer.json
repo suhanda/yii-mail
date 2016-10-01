@@ -1,0 +1,11 @@
+{
+    "name": "suhanda/yii-mail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dedi Suhanda",
+            "email": "dedi.suhanda@at.co.id"
+        }
+    ],
+    "require": {}
+}
